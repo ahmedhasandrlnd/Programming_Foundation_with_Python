@@ -14,5 +14,10 @@
 	* [Reading Turtle Documentation](https://www.youtube.com/watch?time_continue=23&v=ESMZI8djuFo)
 	* [Two Turtles](https://www.youtube.com/watch?time_continue=51&v=D1ZD1d_xx8Y)
 	* [What's Wrong With This Code?](https://www.youtube.com/watch?v=4HT4BwV-bqs)
-
+	* [Improving Code Quality](https://www.youtube.com/watch?time_continue=8&v=fIjQioYtiDw)
+	* [What Is a Class?](https://www.youtube.com/watch?time_continue=17&v=vSznJAwSd78)
+	* [Making a Circle out of Squares](https://www.youtube.com/watch?v=P2wRyGo_xXA)
+	* [Turtle Mini-Project
+](https://www.youtube.com/watch?time_continue=5&v=4Ea22iSyAK4)
+	* [Comfort Level](https://www.youtube.com/watch?time_continue=5&v=yBBwkpUbNS8)
 1. Use Classes: Send Text
