@@ -25,7 +25,7 @@
 1. Use Classes: Send Text
 	* [Course Map](https://www.youtube.com/watch?time_continue=7&v=1Q58F5uI8as)
 	* [Send Text Messages (Story)](https://www.youtube.com/watch?time_continue=4&v=KZbOWH3AkVY)
-	* [Send Text Messages (Output)]https://www.youtube.com/watch?time_continue=22&v=VLvGcAjXmhY)
+	* [Send Text Messages (Output)](https://www.youtube.com/watch?time_continue=22&v=VLvGcAjXmhY)
 	* [Introducing Twilio](https://www.youtube.com/watch?time_continue=17&v=zehuxBMcnD4) [List of popular Python packages](https://pythonwheels.com/)
 	* Download Twilio
 	* [Twilio Download Feedback](https://www.youtube.com/watch?v=DUUASwOpEP8)
