@@ -20,4 +20,20 @@
 	* [Turtle Mini-Project
 ](https://www.youtube.com/watch?time_continue=5&v=4Ea22iSyAK4)
 	* [Comfort Level](https://www.youtube.com/watch?time_continue=5&v=yBBwkpUbNS8)
+	* [They Look So Similar
+](https://www.youtube.com/watch?time_continue=21&v=d4RZ6fIqKOg)
 1. Use Classes: Send Text
+	* [Course Map](https://www.youtube.com/watch?time_continue=7&v=1Q58F5uI8as)
+	* [Send Text Messages (Story)](https://www.youtube.com/watch?time_continue=4&v=KZbOWH3AkVY)
+	* [Send Text Messages (Output)]https://www.youtube.com/watch?time_continue=22&v=VLvGcAjXmhY)
+	* [Introducing Twilio](https://www.youtube.com/watch?time_continue=17&v=zehuxBMcnD4) [List of popular Python packages](https://pythonwheels.com/)
+	* Download Twilio
+	* [Twilio Download Feedback](https://www.youtube.com/watch?v=DUUASwOpEP8)
+	* [Setting Up Our Code](https://www.youtube.com/watch?time_continue=13&v=vLqoYZOjQ1s)
+	* [Registering with Twilio](https://www.youtube.com/watch?time_continue=4&v=pHmX0bOVb58)
+	* [Running Our Code](https://www.youtube.com/watch?time_continue=89&v=BKWocLrQxNE)
+	* [Python Keyword From](https://www.youtube.com/watch?v=e_dImT2vppM)
+	* [Investigating the Code](https://www.youtube.com/watch?time_continue=2&v=F_UlNT_fy7Y)
+	* [Where Does Twilio Come From?](https://www.youtube.com/watch?time_continue=4&v=16xUyJBsSMw)
+	* [Connecting Turtle and Twilio](https://www.youtube.com/watch?time_continue=12&v=ypyd_uzhySA)
+	* [Send Text Messages Mini-Project](https://www.youtube.com/watch?v=z12bwPpO3lw)
